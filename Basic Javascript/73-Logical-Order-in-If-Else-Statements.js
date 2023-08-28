@@ -33,7 +33,6 @@ bar(0)
 foo(0) will return the string Less than one, and bar(0) will return the string Less than two.
 
 Change the order of logic in the function so that it will return the correct statements in all cases.
-
 `
 
 
